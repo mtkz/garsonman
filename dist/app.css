@@ -1,3 +1,5 @@
+@import url("css/font.css");
+
 /*
 ! tailwindcss v3.0.13 | MIT License | https://tailwindcss.com
 */
@@ -423,7 +425,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: none;
 }
 
-*, ::before, ::after {
+*, ::before, ::after{
   --tw-translate-x: 0;
   --tw-translate-y: 0;
   --tw-rotate: 0;
@@ -468,7 +470,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
-.container {
+.container{
   width: 100%;
   margin-right: auto;
   margin-left: auto;
@@ -476,289 +478,280 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-left: 1rem;
 }
 
-@media (min-width: 600px) {
-  .container {
+@media (min-width: 600px){
+  .container{
     max-width: 600px;
   }
 }
 
-@media (min-width: 728px) {
-  .container {
+@media (min-width: 728px){
+  .container{
     max-width: 728px;
   }
 }
 
-@media (min-width: 984px) {
-  .container {
+@media (min-width: 984px){
+  .container{
     max-width: 984px;
   }
 }
 
-@media (min-width: 1240px) {
-  .container {
+@media (min-width: 1240px){
+  .container{
     max-width: 1240px;
   }
 }
 
-.absolute {
+.absolute{
   position: absolute;
 }
 
-.relative {
+.relative{
   position: relative;
 }
 
-.sticky {
+.sticky{
   position: -webkit-sticky;
   position: sticky;
 }
 
-.inset-y-0 {
+.inset-y-0{
   top: 0px;
   bottom: 0px;
 }
 
-.top-0 {
+.top-0{
   top: 0px;
 }
 
-.right-3 {
+.right-3{
   right: 0.75rem;
 }
 
-.z-10 {
+.z-10{
   z-index: 10;
 }
 
-.m-auto {
+.m-auto{
   margin: auto;
 }
 
-.mx-auto {
+.mx-auto{
   margin-left: auto;
   margin-right: auto;
 }
 
-.mb-1\.5 {
+.mb-1\.5{
   margin-bottom: 0.375rem;
 }
 
-.mb-1 {
+.mb-1{
   margin-bottom: 0.25rem;
 }
 
-.mt-8 {
+.mt-8{
   margin-top: 2rem;
 }
 
-.mt-6 {
+.mt-6{
   margin-top: 1.5rem;
 }
 
-.block {
+.block{
   display: block;
 }
 
-.inline-block {
+.inline-block{
   display: inline-block;
 }
 
-.flex {
+.flex{
   display: flex;
 }
 
-.grid {
+.grid{
   display: grid;
 }
 
-.h-6 {
+.h-6{
   height: 1.5rem;
 }
 
-.h-full {
+.h-full{
   height: 100%;
 }
 
-.w-full {
+.w-full{
   width: 100%;
 }
 
-.w-6 {
+.w-6{
   width: 1.5rem;
 }
 
-.w-4 {
+.w-4{
   width: 1rem;
 }
 
-.transform {
+.transform{
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
 
-.cursor-pointer {
+.cursor-pointer{
   cursor: pointer;
 }
 
-.grid-cols-4 {
+.grid-cols-4{
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
-.items-center {
+.items-center{
   align-items: center;
 }
 
-.justify-between {
+.justify-between{
   justify-content: space-between;
 }
 
-.gap-4 {
+.gap-4{
   gap: 1rem;
 }
 
-.gap-3 {
+.gap-3{
   gap: 0.75rem;
 }
 
-.gap-7 {
+.gap-7{
   gap: 1.75rem;
 }
 
-.self-center {
+.self-center{
   align-self: center;
 }
 
-.rounded-lg {
+.rounded-lg{
   border-radius: 0.5rem;
 }
 
-.rounded-xl {
+.rounded-xl{
   border-radius: 0.75rem;
 }
 
-.rounded-\[25px\] {
+.rounded-\[25px\]{
   border-radius: 25px;
 }
 
-.rounded-tr-lg {
+.rounded-tr-lg{
   border-top-right-radius: 0.5rem;
 }
 
-.rounded-tl-lg {
+.rounded-tl-lg{
   border-top-left-radius: 0.5rem;
 }
 
-.border-\[1px\] {
-  border-width: 1px;
-}
-
-.border-gray-200 {
-  --tw-border-opacity: 1;
-  border-color: rgb(229 231 235 / var(--tw-border-opacity));
-}
-
-.bg-white {
+.bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-rose-600 {
+.bg-rose-600{
   --tw-bg-opacity: 1;
   background-color: rgb(225 29 72 / var(--tw-bg-opacity));
 }
 
-.bg-gray-100 {
+.bg-slate-100{
   --tw-bg-opacity: 1;
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+  background-color: rgb(241 245 249 / var(--tw-bg-opacity));
 }
 
-.bg-gradient-to-b {
+.bg-gradient-to-b{
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
-.from-slate-900 {
+.from-slate-900{
   --tw-gradient-from: #0f172a;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(15 23 42 / 0));
 }
 
-.object-cover {
+.object-cover{
   -o-object-fit: cover;
      object-fit: cover;
 }
 
-.p-2 {
+.p-2{
   padding: 0.5rem;
 }
 
-.p-3 {
+.p-3{
   padding: 0.75rem;
 }
 
-.p-1 {
+.p-1{
   padding: 0.25rem;
 }
 
-.p-7 {
+.p-7{
   padding: 1.75rem;
 }
 
-.px-4 {
+.px-4{
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
-.py-2 {
+.py-2{
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 
-.pl-2 {
+.pl-2{
   padding-left: 0.5rem;
 }
 
-.pr-12 {
+.pr-12{
   padding-right: 3rem;
 }
 
-.text-center {
+.text-center{
   text-align: center;
 }
 
-.text-lg {
+.text-lg{
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
-.text-sm {
+.text-sm{
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
 
-.text-gray-800 {
+.text-gray-800{
   --tw-text-opacity: 1;
   color: rgb(31 41 55 / var(--tw-text-opacity));
 }
 
-.text-white {
+.text-white{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
-.text-rose-600 {
+.text-rose-600{
   --tw-text-opacity: 1;
   color: rgb(225 29 72 / var(--tw-text-opacity));
 }
 
-.opacity-75 {
+.opacity-75{
   opacity: 0.75;
 }
 
-.shadow-md {
+.shadow-md{
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.transition {
+.transition{
   transition-property: color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;
@@ -766,16 +759,15 @@ Ensure the default browser behavior of the `hidden` attribute.
   transition-duration: 150ms;
 }
 
-.duration-150 {
+.duration-150{
   transition-duration: 150ms;
 }
 
 body {
   direction: rtl;
-  font-family: IranYekanX, sans-serif;
 }
 
-.food-cat-card {
+.food-cat-card{
   position: relative;
   height: 290px;
   border-radius: 0.5rem;
@@ -786,7 +778,7 @@ body {
   transition-duration: 150ms;
 }
 
-.food-cat-card:hover {
+.food-cat-card:hover{
   --tw-translate-y: -5px;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-shadow: 10px 15px 50px 0 rgba(0,0,0,0.09);
@@ -794,29 +786,29 @@ body {
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
-.hover\:bg-red-100:hover {
+.hover\:bg-red-100:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(254 226 226 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-rose-700:hover {
+.hover\:bg-rose-700:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(190 18 60 / var(--tw-bg-opacity));
 }
 
-.focus\:outline-none:focus {
+.focus\:outline-none:focus{
   outline: 2px solid transparent;
   outline-offset: 2px;
 }
 
-@media (min-width: 640px) {
-  .sm\:grid-cols-4 {
+@media (min-width: 640px){
+  .sm\:grid-cols-4{
     grid-template-columns: repeat(4, minmax(0, 1fr));
   }
 }
 
-@media (min-width: 768px) {
-  .md\:container {
+@media (min-width: 768px){
+  .md\:container{
     width: 100%;
     margin-right: auto;
     margin-left: auto;
@@ -824,26 +816,26 @@ body {
     padding-left: 1rem;
   }
 
-  @media (min-width: 600px) {
-    .md\:container {
+  @media (min-width: 600px){
+    .md\:container{
       max-width: 600px;
     }
   }
 
-  @media (min-width: 728px) {
-    .md\:container {
+  @media (min-width: 728px){
+    .md\:container{
       max-width: 728px;
     }
   }
 
-  @media (min-width: 984px) {
-    .md\:container {
+  @media (min-width: 984px){
+    .md\:container{
       max-width: 984px;
     }
   }
 
-  @media (min-width: 1240px) {
-    .md\:container {
+  @media (min-width: 1240px){
+    .md\:container{
       max-width: 1240px;
     }
   }

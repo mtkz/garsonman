@@ -1,9 +1,10 @@
+@import url("css/font.css");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 body {
     direction: rtl;
-    font-family: IranYekanX, sans-serif;
 }
 .food-cat-card{
     @apply h-[290px] relative rounded-lg hover:translate-y-[-5px] hover:shadow-[10px_15px_50px_0_rgba(0,0,0,0.09)] transition duration-150
