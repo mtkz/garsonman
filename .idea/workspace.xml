@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02dd063c-77df-45b1-ae95-a6c1bc2315fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/garsonman-front.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entry.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/entry.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642678632390</updated>
       <workItem from="1642678632975" duration="4901000" />
-      <workItem from="1642749697617" duration="29000" />
+      <workItem from="1642749697617" duration="2721000" />
     </task>
     <servers />
   </component>
