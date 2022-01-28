@@ -1,0 +1,24 @@
+{
+    "name": "garsonman-front",
+    "version": "1.0.0",
+    "description": "online shop garsonman",
+    "main": "tailwind.config.js",
+    "dependencies": {
+        "postcss": "^8.4.5",
+        "tailwindcss": "^3.0.13"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "tailwind": "npx tailwindcss -i ./src/entry.css -o ./dist/app.css --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mtkz/garsonman-front.git"
+    },
+    "author": "mohammad tahourian",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mtkz/garsonman-front/issues"
+    },
+    "homepage": "https://github.com/mtkz/garsonman-front#readme"
+}
