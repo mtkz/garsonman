@@ -20,8 +20,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02dd063c-77df-45b1-ae95-a6c1bc2315fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/css/output.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/pages/single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/input.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/pages/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/pages/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/font.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/font.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/swiper-bundle.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/swiper-bundle.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entry.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-DemiBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-DemiBold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-ExtraBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-ExtraBold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-Thin.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-Thin.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff/IRANSansX-UltraLight.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff/IRANSansX-UltraLight.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-DemiBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-DemiBold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-ExtraBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-ExtraBold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-Thin.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-Thin.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/IRANSansX/woff2/IRANSansX-UltraLight.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/IRANSansX/woff2/IRANSansX-UltraLight.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum).eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum).eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum)_Black.eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum)_Black.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum)_Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum)_Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum)_Light.eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum)_Light.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum)_Medium.eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum)_Medium.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/eot/IRANSansWeb(FaNum)_UltraLight.eot" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/eot/IRANSansWeb(FaNum)_UltraLight.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum).ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum).ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum)_Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum)_Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum)_Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum)_Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum)_Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum)_Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum)_Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/ttf/IRANSansWeb(FaNum)_UltraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/ttf/IRANSansWeb(FaNum)_UltraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum).woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum).woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum)_Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum)_Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum)_Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum)_Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum)_Light.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum)_Light.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum)_Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum)_Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff/IRANSansWeb(FaNum)_UltraLight.woff" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff/IRANSansWeb(FaNum)_UltraLight.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum).woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum).woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum)_Black.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum)_Black.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum)_Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum)_Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum)_Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum)_Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum)_Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum)_Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fonts/iransans/woff2/IRANSansWeb(FaNum)_UltraLight.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/dist/fonts/iransans/woff2/IRANSansWeb(FaNum)_UltraLight.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/12531-istock-637790866.webp" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/12531-istock-637790866.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Bakers-Copy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/Bakers-Copy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SEAGOA_images.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/SEAGOA_images.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/swiper-bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/swiper-bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/pages/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +136,9 @@
       <workItem from="1643132202332" duration="245000" />
       <workItem from="1643895890389" duration="717000" />
       <workItem from="1643902236423" duration="7471000" />
+      <workItem from="1644081345775" duration="2206000" />
+      <workItem from="1644159611081" duration="2736000" />
+      <workItem from="1644165703023" duration="909000" />
     </task>
     <servers />
   </component>
@@ -110,6 +172,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1643132450501" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1644163421002">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1644163421002" />
     <state x="277" y="62" width="977" height="709" key="SettingsEditor" timestamp="1642749419580">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
