@@ -548,6 +548,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   top: 0px;
 }
 
+.right-6 {
+  right: 1.5rem;
+}
+
+.right-4 {
+  right: 1rem;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -710,6 +718,14 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .w-\[30px\] {
   width: 30px;
+}
+
+.w-2\/6 {
+  width: 33.333333%;
+}
+
+.w-4\/6 {
+  width: 66.666667%;
 }
 
 .translate-y-\[-30px\] {
@@ -962,6 +978,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   padding-bottom: 0.25rem;
 }
 
+.pb-5 {
+  padding-bottom: 1.25rem;
+}
+
+.pb-4 {
+  padding-bottom: 1rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1169,6 +1193,14 @@ body{
     top: 0px;
   }
 
+  .sm\:right-0 {
+    right: 0px;
+  }
+
+  .sm\:bottom-0 {
+    bottom: 0px;
+  }
+
   .sm\:mt-8 {
     margin-top: 2rem;
   }
@@ -1205,12 +1237,28 @@ body{
     border-radius: 0.75rem;
   }
 
+  .sm\:rounded-none {
+    border-radius: 0px;
+  }
+
   .sm\:rounded-bl-xl {
     border-bottom-left-radius: 0.75rem;
   }
 
   .sm\:rounded-tr-xl {
     border-top-right-radius: 0.75rem;
+  }
+
+  .sm\:rounded-br-xl {
+    border-bottom-right-radius: 0.75rem;
+  }
+
+  .sm\:rounded-tl-xl {
+    border-top-left-radius: 0.75rem;
+  }
+
+  .sm\:border-none {
+    border-style: none;
   }
 
   .sm\:p-2 {
@@ -1239,6 +1287,12 @@ body{
   .sm\:shadow-md {
     --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
     --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+  }
+
+  .sm\:shadow-none {
+    --tw-shadow: 0 0 #0000;
+    --tw-shadow-colored: 0 0 #0000;
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
   }
 }
