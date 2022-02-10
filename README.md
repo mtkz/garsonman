@@ -13,8 +13,8 @@ npx tailwindcss -i ./src/entry.css -o ./dist/app.css --watch
 ## ✓ TODO 
 
 - [X] complete single page  
-- [ ] optimization code in any where
-- [ ] change ui icon in navbar
-- [ ] make website responsive (only xs version)
+- [X] optimization code in any where
+- [X] change ui icon in navbar
+- [X] make website responsive (only xs version)
 
 
